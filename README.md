@@ -4,7 +4,7 @@ Data cleaning project in MySQL using a real-world layoffs dataset.
 ## Project Overview
 This project focuses on cleaning and preparing a real-world layoffs dataset using MySQL.
 
-The dataset contains approximately 2,361 records of global company layoffs, including company names, industries, total layoffs, funding raised, and dates.
+The dataset contains approximately 2,362 records of global company layoffs, including company names, industries, total layoffs, funding raised, and dates.
 
 ## Objectives
 - Remove duplicate records
