@@ -14,10 +14,10 @@ The dataset contains information about company layoffs worldwide, including:
 
 ## Objectives
 - Remove duplicate records
-- Standardize inconsistent data
+- Standardize inconsistent values
 - Handle null and blank values
 - Convert data types
-- Prepare data for analysis
+- Prepare clean data for analysis
 
 
 ## Tools Used
@@ -32,6 +32,14 @@ The dataset contains information about company layoffs worldwide, including:
 5. Converted date formats
 6. Removed unnecessary rows and columns
 
+## SQL Techniques Used
+- Window Functions
+- ROW_NUMBER()
+- CTEs
+- JOINs
+- ALTER TABLE
+- UPDATE Statements
+- DELETE Statements
 
 ## Files Included
 - Raw dataset
