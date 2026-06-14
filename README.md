@@ -36,8 +36,8 @@ The dataset contains approximately 2,362 records of global company layoffs, incl
 
 ## Files Included
 - [layoffs.csv](./layoffs.csv) — Original raw dataset
-- Cleaned dataset
-- SQL cleaning script
+- [layoffs_clean.csv](./layoffs_clean.csv) — Cleaned dataset
+- [MySQL Data Cleaning Script.sql](./MySQL Data Cleaning Script.sql) — SQL cleaning script
 
 ## Key Skills Demonstrated
 - SQL
